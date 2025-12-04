@@ -18,5 +18,7 @@ public class Main {
 
         System.out.printf("The sum of the values follows: %.2f", soma);
 
+        sc.close();
+
     }
 }
