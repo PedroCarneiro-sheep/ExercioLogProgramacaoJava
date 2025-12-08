@@ -19,5 +19,6 @@ public class Main {
             System.out.println("It is a non-negative number.");
         }
 
+        sc.close();
     }
 }
