@@ -20,5 +20,7 @@ public class Main {
         } else  {
             System.out.println("They are not multiples!");
         }
+        
+        sc.close();
     }
 }
