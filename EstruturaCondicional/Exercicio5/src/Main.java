@@ -39,5 +39,7 @@ public class Main {
         }
 
         System.out.printf("the total value is U$%.2f", total);
+
+        sc.close();
     }
 }
