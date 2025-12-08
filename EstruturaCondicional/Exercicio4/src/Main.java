@@ -24,6 +24,8 @@ public class Main {
              int duration = 24 - startTime + endTime;
             System.out.printf("The game lasted %d hours", duration);
         }
+        
+        sc.close();
     }
 }
 
